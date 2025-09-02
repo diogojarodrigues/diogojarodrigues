@@ -5,11 +5,11 @@ Did you know the first 1GB hard drive, introduced in 1980, weighed over 500 poun
 ---
 ### Who Am I?
 
-I'm Diogo Rodrigues, a passionate Software Developer based in Lisbon, Portugal.  
+I’m Diogo Rodrigues, a passionate Software Engineer based in Lisbon, Portugal. 
 
-    👨‍💻 Currently working as a Software Developer in the Department of Informatics Engineering at Técnico.  
+    👨‍💻 Founder of BeeWisee, a community platform that connects students with mentors.
     
-    🎓 Pursuing a Master's in Computer Engineering (MEIC) at Instituto Superior Técnico.  
+    🎓 Computer Engineering graduate (LEIC) from Instituto Superior Técnico (IST).
     
     🔗 Exploring blockchain and web3 technologies, while building websites 🌐 in my free time.  
 
@@ -27,7 +27,7 @@ Want to learn more about me? Check out my portfolio [here](https://diogojarodrig
 
 <h2 align="center">Languages</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,html,css" />
 </p>
 <br>
 
@@ -37,9 +37,9 @@ Want to learn more about me? Check out my portfolio [here](https://diogojarodrig
 </p>
 <br>
 
-<h2 align="center">Environment</h1>
+<h2 align="center">Tools</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,git,docker,maven,postman" />
+  <img src="https://skillicons.dev/icons?i=apple,linux,vscode,git,docker,postman,gcp" />
 </p>
 <br>
 
