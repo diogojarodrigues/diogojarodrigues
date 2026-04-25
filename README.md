@@ -8,10 +8,10 @@ Did you know the first 1GB hard drive, introduced in 1980, weighed over 500 poun
 I’m Diogo Rodrigues, a passionate Software Engineer based in Lisbon, Portugal. 
 
     👨‍💻 Founder of BeeWisee, a community platform that connects students with mentors.
+
+    💼 Software Engineer (Dev & DevOps) @ Critical Techworks | BMW Group.
     
     🎓 Computer Engineering graduate (LEIC) from Instituto Superior Técnico (IST).
-    
-    🔗 Exploring blockchain and web3 technologies, while building websites 🌐 in my free time.  
 
 🚀 Always curious, always improving.  
 
@@ -19,15 +19,13 @@ I’m Diogo Rodrigues, a passionate Software Engineer based in Lisbon, Portugal.
 
 Want to learn more about me? Check out my portfolio [here](https://diogojarodrigues.github.io/portfolio/).
 
-
-
 ---
 
 ### Technologies
 
 <h2 align="center">Languages</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,java,kotlin,ts,html,css" />
 </p>
 <br>
 
@@ -39,7 +37,7 @@ Want to learn more about me? Check out my portfolio [here](https://diogojarodrig
 
 <h2 align="center">Tools</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,linux,vscode,git,docker,postman,gcp" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,git,docker,postman,gcp,aws" />
 </p>
 <br>
 
