@@ -9,7 +9,7 @@ I’m Diogo Rodrigues, a passionate Software Engineer based in Lisbon, Portugal.
 
     👨‍💻 Founder of BeeWisee, a community platform that connects students with mentors.
 
-    💼 Software Engineer (Dev & DevOps) @ Critical Techworks | BMW Group.
+    💼 Software Engineer at Critical Techworks. Working as Developer and DevOps to BMW Group brands.
     
     🎓 Computer Engineering graduate (LEIC) from Instituto Superior Técnico (IST).
 
@@ -25,19 +25,19 @@ Want to learn more about me? Check out my portfolio [here](https://diogojarodrig
 
 <h2 align="center">Languages</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,kotlin,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,py,js,ts,c,cpp" />
 </p>
 <br>
 
 <h2 align="center">Frameworks</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,threejs,spring,rails,flask,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=rails,spring,vue,react,postgres,mongodb,terraform,grafana,prometheus" />
 </p>
 <br>
 
 <h2 align="center">Tools</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,git,docker,postman,gcp,aws" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,idea,docker,git,postman,gcp,aws" />
 </p>
 <br>
 
