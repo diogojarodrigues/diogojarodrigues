@@ -18,6 +18,7 @@ I’m Diogo Rodrigues, a passionate Software Engineer based in Lisbon, Portugal.
 <br>
 
 Want to learn more about me? Check out my portfolio [here](https://diogojarodrigues.github.io/portfolio/).
+</br>Checkout out my favorite projects in the pin projects bellow.
 
 ---
 
